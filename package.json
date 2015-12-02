@@ -1,0 +1,27 @@
+{
+  "name": "mocha-chai-test",
+  "version": "1.0.0",
+  "description": "A basic chai mocha setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/credocleo/mocha-chai-test.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "Cleo Credo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/credocleo/mocha-chai-test/issues"
+  },
+  "homepage": "https://github.com/credocleo/mocha-chai-test#readme",
+  "dependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
